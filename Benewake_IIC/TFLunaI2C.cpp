@@ -44,6 +44,8 @@
 #include "TFLunaI2C.h"       //  TFLuna I2C library header
 #include <Wire.h>          //  Arduino I2C/Two-Wire Library
 
+#define FW_VER 0.1        //添加版本号
+
 // Constructor/Destructor
 TFLunaI2C::TFLunaI2C(){}
 TFLunaI2C::~TFLunaI2C(){}
