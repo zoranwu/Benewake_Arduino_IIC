@@ -13,6 +13,9 @@
  *
  */
 
+
+#define test "ver"
+
 #include <Wire.h>     // Arduino standard I2C/Two-Wire Library
 #include "printf.h"   // Modified by to support Intel based Arduino
                       // devices such as the Galileo. Download from:
